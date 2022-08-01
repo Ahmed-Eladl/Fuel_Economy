@@ -4,4 +4,4 @@ The fuel economy of an automobile is the fuel efficiency relationship between th
 ### Data Source
 Below are the web pages from this video. Note that the datasets we'll be working with are slightly simpler than those found here.
 [fuel academy](https://www.fueleconomy.gov/)
-[fuel academy](https://www.fueleconomy.gov/feg/download.shtml/)
+[DOE Fuel Economy Data](https://www.fueleconomy.gov/feg/download.shtml/)
